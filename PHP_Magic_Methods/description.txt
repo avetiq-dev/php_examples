@@ -1,0 +1,8 @@
+Introduction to PHP magic methods
+
+PHP magic methods are special methods in a class.
+The magic methods override the default actions when the object performs the actions.
+
+By convention, the names of magic methods start with a double underscore (__).
+And PHP reserves the methods whose names start with a double underscore (__) for magic methods.
+
