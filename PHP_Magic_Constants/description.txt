@@ -1,0 +1,4 @@
+Magic constants are the predefined constants in PHP which get changed on the basis of their use.
+They start with double underscore (__) and ends with double underscore.
+They are similar to other predefined constants but as they change their values with the context,
+they are called magic constants.
